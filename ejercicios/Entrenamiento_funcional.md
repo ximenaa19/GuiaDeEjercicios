@@ -13,3 +13,7 @@ Este tipo de entrenamiento simula movimientos de la vida diaria para mejorar fue
 1. Combina ejercicios como sentadillas, planchas y saltos.
 2. Realiza circuitos de 4-6 ejercicios por 30-45 segundos cada uno.
 3. Descansa 1 minuto entre circuitos.
+
+## Consejos
+- Empieza con movimientos básicos y aumenta la dificultad progresivamente.
+- Prioriza la técnica sobre la velocidad
