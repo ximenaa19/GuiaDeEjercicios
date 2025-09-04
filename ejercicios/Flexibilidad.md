@@ -2,3 +2,8 @@
 
 ## Descripción
 Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de músculos y articulaciones.
+
+## Beneficios
+- Previene lesiones.
+- Mejora la postura.
+- Reduce tensión muscular.
