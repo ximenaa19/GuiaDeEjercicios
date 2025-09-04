@@ -13,3 +13,7 @@ El boxeo combina movimientos rápidos y fuerza, mejorando la coordinación, agil
 1. Calienta con saltos de cuerda y movilidad.
 2. Practica combinaciones de golpes durante 2-3 minutos por ronda.
 3. Descansa 1 minuto entre rondas y repite 5-8 veces.
+
+## Consejos
+- Usa vendajes y guantes para proteger tus manos.
+- Mantén siempre la guardia alta y controla tu respiración.
