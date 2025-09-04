@@ -12,3 +12,7 @@ La natación trabaja todo el cuerpo de forma aeróbica y con bajo impacto en las
 1. Elige un estilo cómodo (libre, pecho, mariposa, espalda).
 2. Nada a ritmo constante durante 20-40 minutos.
 3. Descansa entre series si es necesario.
+
+## Consejos
+- Calienta antes de entrar al agua.
+- Usa gafas y gorro para mayor comodidad.
