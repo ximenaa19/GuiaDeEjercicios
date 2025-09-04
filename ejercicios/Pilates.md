@@ -12,3 +12,8 @@ El pilates fortalece el cuerpo, especialmente el core, mediante ejercicios contr
 1. Realiza ejercicios básicos como el “hundred” o “rolling like a ball”.
 2. Haz 8-10 repeticiones controladas de cada ejercicio.
 3. Concéntrate en la respiración y el control del movimiento.
+
+
+## Consejos
+- Usa una colchoneta cómoda.
+- Mantén el abdomen contraído durante los ejercicios.
