@@ -12,3 +12,7 @@ El CrossFit combina ejercicios de alta intensidad con fuerza, resistencia y acon
 1. Realiza un calentamiento completo.
 2. Haz un WOD (entrenamiento del día) con ejercicios variados (saltos, levantamientos, sprints).
 3. Descansa y estira al finalizar.
+
+## Consejos
+- Ajusta la intensidad según tu nivel.
+- Prioriza la técnica antes de aumentar peso o velocidad.
