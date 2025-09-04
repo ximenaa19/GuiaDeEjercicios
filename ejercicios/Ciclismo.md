@@ -7,3 +7,8 @@ El ciclismo es una actividad aeróbica que mejora la resistencia cardiovascular 
 - Quema calorías eficientemente.
 - Fortalece músculos de piernas y glúteos.
 - Menor impacto en articulaciones comparado con correr.
+
+## Instrucciones
+1. Ajusta la bicicleta a tu altura.
+2. Pedalea a intensidad moderada durante 30-60 minutos.
+3. Incluye tramos de mayor resistencia para mejorar la fuerza.
